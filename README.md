@@ -142,25 +142,34 @@ Total folios
 Total schemes
 Industry AUM trend
 AUM by fund house
+
+
 2. Fund Performance
 3-Year Return vs Risk-Adjusted Performance
 Fund scorecard
 NAV and benchmark analysis
 Fund House and Category slicers
 Fund drill-through
+
+
 3. Investor Analytics
 Transaction amount by state
 Transaction amount by transaction type
 Average transaction amount by age group
 Monthly transaction volume
 State, Age Group, and City Tier slicers
+
+
 4. SIP & Market Trends
 Monthly SIP inflows
 NIFTY 50 market trend
 Category inflow heatmap
 FY25 category inflow analysis
 Category slicer
+
+
 Technologies Used
+
 Python
 Pandas
 NumPy
@@ -174,7 +183,10 @@ Jupyter Notebook
 Power BI
 Git
 GitHub
+
+
 Key Deliverables
+
 Cleaned mutual fund datasets
 SQLite database
 EDA notebook and visualizations
@@ -184,6 +196,8 @@ Alpha/Beta analysis
 Tracking Error analysis
 Benchmark comparison
 Interactive Power BI dashboard
+
+
 Repository
 
 This repository contains the data processing scripts, cleaned datasets, analytical notebooks, SQL database design, financial analysis outputs, and Power BI dashboard created for the Bluestock mutual fund analytics capstone project.
